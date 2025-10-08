@@ -1,9 +1,0 @@
-# Ignore Rust build artifacts
-/target/
-/Cargo.lock
-
-# Ignore backup and temp files
-*.rs.bk
-*.swp
-*.tmp
-*.rcgu.o
