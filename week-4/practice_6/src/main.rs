@@ -14,7 +14,7 @@ fn main(){
     io::stdin().read_line(&mut input2).expect("Failed to read input");
     let upper_bound:i32 = input2.trim().parse().expect("Failed to read input");
 
-    for x in lower_bound..upper_bound // upper_bound is not inclusive
+    for x in lower_bound..=upper_bound // upper_bound is not inclusive
     {
         println!("Count Level is {}", x);
     }
