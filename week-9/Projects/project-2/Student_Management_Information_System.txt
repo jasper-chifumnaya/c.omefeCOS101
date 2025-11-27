@@ -1,0 +1,8 @@
+|                                  PAU SMIS                          
+| Student Name       | Matric. Number      | Department      | Level
+|--------------------|---------------------|-----------------|---------------
+| Oluchi Mordi       | ACC10211            | Accounting      | 300           |
+| Adams Aliyu        | ECO10110            | Economics       | 100           |
+| Shania Bolade      | CSC10328            | Computer        | 200           |
+| Adekunle Gold      | EEE110202           | Electrical      | 200           |
+| Blanca Edemoh      | MEE102020           | Mechanical      | 100           |
